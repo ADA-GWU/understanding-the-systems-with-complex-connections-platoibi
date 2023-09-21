@@ -15,4 +15,5 @@ cur = 0
 
 while True:
     sender[cur].send(clientListener.recv(64))
+    print('Packet sent to port ' + str(10001+cur))
     cur = (cur+1)%len(sender)
