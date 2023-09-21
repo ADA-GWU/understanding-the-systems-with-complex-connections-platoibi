@@ -1,1 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/Bp585G7b)
+Step 1. Start 3 servers -> python3 Server.py
+Step 2. Start request handler -> python3 RequestHandler.py
+Step 3. Start client -> python3 Client.py
